@@ -1,0 +1,72 @@
+version: '3.7'
+
+services:
+  app:
+    container_name: sf64example-be
+    build:
+      target: dev
+      context: .
+      dockerfile: docker/php/Dockerfile
+      args:
+        USERID: $USERID
+    environment:
+#      XDEBUG_CLIENT_HOST: 172.25.0.5
+      XDEBUG_CLIENT_PORT: 3010
+      PHP_IDE_CONFIG: serverName=Docker
+    networks:
+      - sf64example-network
+    volumes:
+      - ./:/appdata/www
+
+  web:
+    container_name: sf64example-web
+    build:
+      target: dev
+      context: .
+      dockerfile: docker/nginx/Dockerfile
+    ports:
+      - '8009:80'
+    volumes:
+      - ./:/appdata/www
+    links:
+      - app
+    networks:
+      - sf64example-network
+    depends_on:
+      - app
+
+  mailer:
+    container_name: sf64example-mailer2
+    image: axllent/mailpit
+    ports:
+      - "1031:1025"
+      - "8031:8025"
+    environment:
+      MP_SMTP_AUTH_ACCEPT_ANY: 1
+      MP_SMTP_AUTH_ALLOW_INSECURE: 1
+    networks:
+      - sf64example-network
+
+#  database:
+#    container_name: sf64example-postgres
+#    image: postgres:16-alpine
+#    ports:
+#      - '5434:5432'
+#    environment:
+#      POSTGRES_USER: sf64user
+#      POSTGRES_PASSWORD: admin
+#      POSTGRES_DB: sf64db
+#      TZ: 'America/La_Paz'
+#      PGTZ: 'America/La_Paz'
+#
+#    volumes:
+#      - pgsql-data:/var/lib/postgresql/data
+#    networks:
+#      - sf64example-network
+
+networks:
+  sf64example-network:
+    external: true
+
+volumes:
+  pgsql-data:
