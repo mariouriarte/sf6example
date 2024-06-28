@@ -93,5 +93,5 @@ EXPOSE 3010
 #RUN wget https://get.symfony.com/cli/installer -O - | bash
 #RUN export PATH="$HOME/.symfony5/bin:$PATH"
 RUN apk add --no-cache bash
-RUN curl -1sLf 'https://dl.cloudsmith.io/public/symfony/stable/setup.alpine.sh' | sudo -E bash
+RUN curl -1sLf 'https://dl.cloudsmith.io/public/symfony/stable/setup.alpine.sh' | bash
 RUN apk add symfony-cli

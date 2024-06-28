@@ -7,7 +7,7 @@ help: ## Show makefile help message prod 1
 	@echo 'usage: make [target]'
 	@echo
 	@echo 'targets:'
-	@egrep '^(.+)\:\ ##\ (.+)' ${MAKEFILE_LIST} | column -t -c 2 -s ':#'
+	@grep -E '^(.+):\s##\s(.+)' ${MAKEFILE_LIST} | column -t -c 2 -s ':#'
 
 # >>>> dev
 build: ## Rebuilds all the containers
