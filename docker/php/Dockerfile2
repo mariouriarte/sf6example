@@ -1,0 +1,78 @@
+FROM php:8.2-fpm-buster as base
+ENV TZ=America/La_Paz
+ARG TIMEZONE=America/La_Paz
+
+ARG USERID=1000
+ARG groupid=1001
+ARG UNAME=www-data
+ARG UGROUP=www-data
+
+COPY docker/php/php.ini /usr/local/etc/php/php.ini
+
+# Create user with same permissions as host and some useful stuff
+RUN adduser -u $USERID --disabled-password --gecos "" appuser
+
+RUN mkdir /home/appuser/.ssh
+RUN chown -R appuser:appuser /home/appuser/
+RUN echo "StrictHostKeyChecking no" >> /home/appuser/.ssh/config
+
+RUN apt-get update && apt-get install -y \
+    gnupg \
+    g++ \
+    procps \
+    openssl \
+    git \
+    unzip \
+    zlib1g-dev \
+    libzip-dev \
+    libfreetype6-dev \
+    libpng-dev \
+    libjpeg-dev \
+    libicu-dev  \
+    libonig-dev \
+    libxslt1-dev \
+    acl \
+    && echo 'alias sf="php bin/console"' >> ~/.bashrc
+
+RUN docker-php-ext-configure gd --with-jpeg --with-freetype
+
+RUN docker-php-ext-install \
+    pdo pdo_mysql zip xsl gd intl opcache exif mbstring
+
+# Set timezone
+RUN ln -snf /usr/share/zoneinfo/${TIMEZONE} /etc/localtime && echo ${TIMEZONE} > /etc/timezone \
+    && printf '[PHP]\ndate.timezone = "%s"\n', ${TIMEZONE} > /usr/local/etc/php/conf.d/tzone.ini \
+    && "date"
+
+# php postgresql
+RUN apt-get update && apt-get install -y libpq-dev
+#RUN docker-php-ext-configure pgsql -with-pgsql=/usr/local/pgsql
+RUN docker-php-ext-install pdo pdo_pgsql
+
+# Install and update composer
+RUN curl https://getcomposer.org/composer.phar -o /usr/bin/composer && chmod +x /usr/bin/composer \
+    && composer self-update
+
+# install symfony
+RUN curl -sS https://get.symfony.com/cli/installer | bash
+RUN mv /root/.symfony5/bin/symfony /usr/local/bin/symfony
+
+USER root
+
+RUN mkdir -p /appdata/www
+WORKDIR /appdata/www
+
+RUN usermod -a -G www-data appuser
+RUN usermod -a -G www-data root
+
+FROM base as dev
+
+# Config XDEBUG
+RUN pecl install xdebug-3.3.2 \
+    && docker-php-ext-enable xdebug
+# Config XDEBUG
+COPY docker/php/xdebug.ini /usr/local/etc/php/conf.d/xdebug.ini
+
+# cambio de puerto de php-fpm
+RUN sed -i 's/9000/3010/' /usr/local/etc/php-fpm.d/zz-docker.conf
+EXPOSE 3010

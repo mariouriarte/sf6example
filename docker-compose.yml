@@ -1,12 +1,10 @@
-version: '3.7'
-
 services:
   app:
     container_name: sf64example-be
     build:
       target: dev
       context: .
-      dockerfile: docker/php/Dockerfile
+      dockerfile: docker/php/Dockerfile2
       args:
         USERID: $USERID
     environment:
