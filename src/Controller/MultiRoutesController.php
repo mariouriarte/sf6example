@@ -11,7 +11,7 @@ class MultiRoutesController extends AbstractController
     public function browse1(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 1',
         ]);
     }
 
@@ -19,7 +19,7 @@ class MultiRoutesController extends AbstractController
     public function browse2(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 2',
         ]);
     }
 
@@ -27,7 +27,7 @@ class MultiRoutesController extends AbstractController
     public function browse3(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 3',
         ]);
     }
 
@@ -35,7 +35,7 @@ class MultiRoutesController extends AbstractController
     public function browse4(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 4',
         ]);
     }
 
@@ -43,7 +43,7 @@ class MultiRoutesController extends AbstractController
     public function browse5(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 5',
         ]);
     }
 
@@ -51,7 +51,7 @@ class MultiRoutesController extends AbstractController
     public function browse6(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 6',
         ]);
     }
 
@@ -59,7 +59,7 @@ class MultiRoutesController extends AbstractController
     public function browse7(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 7',
         ]);
     }
 
@@ -67,7 +67,7 @@ class MultiRoutesController extends AbstractController
     public function browse8(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 8',
         ]);
     }
 
@@ -75,7 +75,7 @@ class MultiRoutesController extends AbstractController
     public function browse9(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 9',
         ]);
     }
 
@@ -83,7 +83,7 @@ class MultiRoutesController extends AbstractController
     public function browse10(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 10',
         ]);
     }
 
@@ -91,7 +91,7 @@ class MultiRoutesController extends AbstractController
     public function browse11(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 11',
         ]);
     }
 
@@ -99,7 +99,7 @@ class MultiRoutesController extends AbstractController
     public function browse12(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 12',
         ]);
     }
 
@@ -107,7 +107,7 @@ class MultiRoutesController extends AbstractController
     public function browse13(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 13',
         ]);
     }
 
@@ -115,7 +115,7 @@ class MultiRoutesController extends AbstractController
     public function browse14(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 14',
         ]);
     }
 
@@ -123,7 +123,7 @@ class MultiRoutesController extends AbstractController
     public function browse15(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 15',
         ]);
     }
 
@@ -131,7 +131,7 @@ class MultiRoutesController extends AbstractController
     public function browse16(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 16',
         ]);
     }
 
@@ -139,7 +139,7 @@ class MultiRoutesController extends AbstractController
     public function browse17(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 17',
         ]);
     }
 
@@ -147,7 +147,7 @@ class MultiRoutesController extends AbstractController
     public function browse18(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 18',
         ]);
     }
 
@@ -155,7 +155,7 @@ class MultiRoutesController extends AbstractController
     public function browse19(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 19',
         ]);
     }
 
@@ -163,7 +163,7 @@ class MultiRoutesController extends AbstractController
     public function browse20(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 20',
         ]);
     }
 
@@ -171,7 +171,7 @@ class MultiRoutesController extends AbstractController
     public function browse21(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 21',
         ]);
     }
 
@@ -179,7 +179,7 @@ class MultiRoutesController extends AbstractController
     public function browse22(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 22',
         ]);
     }
 
@@ -187,7 +187,7 @@ class MultiRoutesController extends AbstractController
     public function browse23(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 23',
         ]);
     }
 
@@ -195,7 +195,7 @@ class MultiRoutesController extends AbstractController
     public function browse24(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 24',
         ]);
     }
 
@@ -203,7 +203,7 @@ class MultiRoutesController extends AbstractController
     public function browse25(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 25',
         ]);
     }
 
@@ -211,7 +211,7 @@ class MultiRoutesController extends AbstractController
     public function browse26(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 26',
         ]);
     }
 
@@ -219,7 +219,7 @@ class MultiRoutesController extends AbstractController
     public function browse27(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 27',
         ]);
     }
 
@@ -227,7 +227,7 @@ class MultiRoutesController extends AbstractController
     public function browse28(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 28',
         ]);
     }
 
@@ -235,7 +235,7 @@ class MultiRoutesController extends AbstractController
     public function browse29(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 29',
         ]);
     }
 
@@ -243,7 +243,7 @@ class MultiRoutesController extends AbstractController
     public function browse30(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 30',
         ]);
     }
 
@@ -251,7 +251,7 @@ class MultiRoutesController extends AbstractController
     public function browse31(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 31',
         ]);
     }
 
@@ -259,7 +259,7 @@ class MultiRoutesController extends AbstractController
     public function browse32(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 32',
         ]);
     }
 
@@ -267,7 +267,7 @@ class MultiRoutesController extends AbstractController
     public function browse33(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 33',
         ]);
     }
 
@@ -275,7 +275,7 @@ class MultiRoutesController extends AbstractController
     public function browse34(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 34',
         ]);
     }
 
@@ -283,7 +283,7 @@ class MultiRoutesController extends AbstractController
     public function browse35(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 35',
         ]);
     }
 
@@ -291,7 +291,7 @@ class MultiRoutesController extends AbstractController
     public function browse36(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 36',
         ]);
     }
 
@@ -299,7 +299,7 @@ class MultiRoutesController extends AbstractController
     public function browse37(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 37',
         ]);
     }
 
@@ -307,7 +307,7 @@ class MultiRoutesController extends AbstractController
     public function browse38(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 38',
         ]);
     }
 
@@ -315,7 +315,7 @@ class MultiRoutesController extends AbstractController
     public function browse39(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 39',
         ]);
     }
 
@@ -323,7 +323,7 @@ class MultiRoutesController extends AbstractController
     public function browse40(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 40',
         ]);
     }
 
@@ -331,7 +331,7 @@ class MultiRoutesController extends AbstractController
     public function browse41(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 41',
         ]);
     }
 
@@ -339,7 +339,7 @@ class MultiRoutesController extends AbstractController
     public function browse42(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 42',
         ]);
     }
 
@@ -347,7 +347,7 @@ class MultiRoutesController extends AbstractController
     public function browse43(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 43',
         ]);
     }
 
@@ -355,7 +355,7 @@ class MultiRoutesController extends AbstractController
     public function browse44(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 44',
         ]);
     }
 
@@ -363,7 +363,7 @@ class MultiRoutesController extends AbstractController
     public function browse45(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 45',
         ]);
     }
 
@@ -371,7 +371,7 @@ class MultiRoutesController extends AbstractController
     public function browse46(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 46',
         ]);
     }
 
@@ -379,7 +379,7 @@ class MultiRoutesController extends AbstractController
     public function browse47(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 47',
         ]);
     }
 
@@ -387,7 +387,7 @@ class MultiRoutesController extends AbstractController
     public function browse48(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 48',
         ]);
     }
 
@@ -395,7 +395,7 @@ class MultiRoutesController extends AbstractController
     public function browse49(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 49',
         ]);
     }
 
@@ -403,7 +403,7 @@ class MultiRoutesController extends AbstractController
     public function browse50(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 50',
         ]);
     }
 
@@ -411,7 +411,7 @@ class MultiRoutesController extends AbstractController
     public function browse51(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 51',
         ]);
     }
 
@@ -419,7 +419,7 @@ class MultiRoutesController extends AbstractController
     public function browse52(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 52',
         ]);
     }
 
@@ -427,7 +427,7 @@ class MultiRoutesController extends AbstractController
     public function browse53(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 53',
         ]);
     }
 
@@ -435,7 +435,7 @@ class MultiRoutesController extends AbstractController
     public function browse54(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 54',
         ]);
     }
 
@@ -443,7 +443,7 @@ class MultiRoutesController extends AbstractController
     public function browse55(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 55',
         ]);
     }
 
@@ -451,7 +451,7 @@ class MultiRoutesController extends AbstractController
     public function browse56(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 56',
         ]);
     }
 
@@ -459,7 +459,7 @@ class MultiRoutesController extends AbstractController
     public function browse57(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 57',
         ]);
     }
 
@@ -467,7 +467,7 @@ class MultiRoutesController extends AbstractController
     public function browse58(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 58',
         ]);
     }
 
@@ -475,7 +475,7 @@ class MultiRoutesController extends AbstractController
     public function browse59(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 59',
         ]);
     }
 
@@ -483,7 +483,7 @@ class MultiRoutesController extends AbstractController
     public function browse60(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 60',
         ]);
     }
 
@@ -491,7 +491,7 @@ class MultiRoutesController extends AbstractController
     public function browse61(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 61',
         ]);
     }
 
@@ -499,7 +499,7 @@ class MultiRoutesController extends AbstractController
     public function browse62(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 62',
         ]);
     }
 
@@ -507,7 +507,7 @@ class MultiRoutesController extends AbstractController
     public function browse63(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 63',
         ]);
     }
 
@@ -515,7 +515,7 @@ class MultiRoutesController extends AbstractController
     public function browse64(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 64',
         ]);
     }
 
@@ -523,7 +523,7 @@ class MultiRoutesController extends AbstractController
     public function browse65(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 65',
         ]);
     }
 
@@ -531,7 +531,7 @@ class MultiRoutesController extends AbstractController
     public function browse66(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 66',
         ]);
     }
 
@@ -539,7 +539,7 @@ class MultiRoutesController extends AbstractController
     public function browse67(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 67',
         ]);
     }
 
@@ -547,7 +547,7 @@ class MultiRoutesController extends AbstractController
     public function browse68(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 68',
         ]);
     }
 
@@ -555,7 +555,7 @@ class MultiRoutesController extends AbstractController
     public function browse69(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 69',
         ]);
     }
 
@@ -563,7 +563,7 @@ class MultiRoutesController extends AbstractController
     public function browse70(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 70',
         ]);
     }
 
@@ -571,7 +571,7 @@ class MultiRoutesController extends AbstractController
     public function browse71(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 71',
         ]);
     }
 
@@ -579,7 +579,7 @@ class MultiRoutesController extends AbstractController
     public function browse72(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 72',
         ]);
     }
 
@@ -587,7 +587,7 @@ class MultiRoutesController extends AbstractController
     public function browse73(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 73',
         ]);
     }
 
@@ -595,7 +595,7 @@ class MultiRoutesController extends AbstractController
     public function browse74(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 74',
         ]);
     }
 
@@ -603,7 +603,7 @@ class MultiRoutesController extends AbstractController
     public function browse75(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 75',
         ]);
     }
 
@@ -611,7 +611,7 @@ class MultiRoutesController extends AbstractController
     public function browse76(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 76',
         ]);
     }
 
@@ -619,7 +619,7 @@ class MultiRoutesController extends AbstractController
     public function browse77(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 77',
         ]);
     }
 
@@ -627,7 +627,7 @@ class MultiRoutesController extends AbstractController
     public function browse78(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 78',
         ]);
     }
 
@@ -635,7 +635,7 @@ class MultiRoutesController extends AbstractController
     public function browse79(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 79',
         ]);
     }
 
@@ -643,7 +643,7 @@ class MultiRoutesController extends AbstractController
     public function browse80(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 80',
         ]);
     }
 
@@ -651,7 +651,7 @@ class MultiRoutesController extends AbstractController
     public function browse81(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 81',
         ]);
     }
 
@@ -659,7 +659,7 @@ class MultiRoutesController extends AbstractController
     public function browse82(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 82',
         ]);
     }
 
@@ -667,7 +667,7 @@ class MultiRoutesController extends AbstractController
     public function browse83(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 83',
         ]);
     }
 
@@ -675,7 +675,7 @@ class MultiRoutesController extends AbstractController
     public function browse84(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 84',
         ]);
     }
 
@@ -683,7 +683,7 @@ class MultiRoutesController extends AbstractController
     public function browse85(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 85',
         ]);
     }
 
@@ -691,7 +691,7 @@ class MultiRoutesController extends AbstractController
     public function browse86(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 86',
         ]);
     }
 
@@ -699,7 +699,7 @@ class MultiRoutesController extends AbstractController
     public function browse87(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 87',
         ]);
     }
 
@@ -707,7 +707,7 @@ class MultiRoutesController extends AbstractController
     public function browse88(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 88',
         ]);
     }
 
@@ -715,7 +715,7 @@ class MultiRoutesController extends AbstractController
     public function browse89(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 89',
         ]);
     }
 
@@ -723,7 +723,7 @@ class MultiRoutesController extends AbstractController
     public function browse90(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 90',
         ]);
     }
 
@@ -731,7 +731,7 @@ class MultiRoutesController extends AbstractController
     public function browse91(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 91',
         ]);
     }
 
@@ -739,7 +739,7 @@ class MultiRoutesController extends AbstractController
     public function browse92(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 92',
         ]);
     }
 
@@ -747,7 +747,7 @@ class MultiRoutesController extends AbstractController
     public function browse93(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 93',
         ]);
     }
 
@@ -755,7 +755,7 @@ class MultiRoutesController extends AbstractController
     public function browse94(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 94',
         ]);
     }
 
@@ -763,7 +763,7 @@ class MultiRoutesController extends AbstractController
     public function browse95(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 95',
         ]);
     }
 
@@ -771,7 +771,7 @@ class MultiRoutesController extends AbstractController
     public function browse96(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 96',
         ]);
     }
 
@@ -779,7 +779,7 @@ class MultiRoutesController extends AbstractController
     public function browse97(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 97',
         ]);
     }
 
@@ -787,7 +787,7 @@ class MultiRoutesController extends AbstractController
     public function browse98(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 98',
         ]);
     }
 
@@ -795,7 +795,7 @@ class MultiRoutesController extends AbstractController
     public function browse99(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 99',
         ]);
     }
 
@@ -803,7 +803,7 @@ class MultiRoutesController extends AbstractController
     public function browse100(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 100',
         ]);
     }
 
@@ -811,7 +811,7 @@ class MultiRoutesController extends AbstractController
     public function browse101(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 101',
         ]);
     }
 
@@ -819,7 +819,7 @@ class MultiRoutesController extends AbstractController
     public function browse102(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 102',
         ]);
     }
 
@@ -827,7 +827,7 @@ class MultiRoutesController extends AbstractController
     public function browse103(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 103',
         ]);
     }
 
@@ -835,7 +835,7 @@ class MultiRoutesController extends AbstractController
     public function browse104(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 104',
         ]);
     }
 
@@ -843,7 +843,7 @@ class MultiRoutesController extends AbstractController
     public function browse105(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 105',
         ]);
     }
 
@@ -851,7 +851,7 @@ class MultiRoutesController extends AbstractController
     public function browse106(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 106',
         ]);
     }
 
@@ -859,7 +859,7 @@ class MultiRoutesController extends AbstractController
     public function browse107(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 107',
         ]);
     }
 
@@ -867,7 +867,7 @@ class MultiRoutesController extends AbstractController
     public function browse108(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 108',
         ]);
     }
 
@@ -875,7 +875,7 @@ class MultiRoutesController extends AbstractController
     public function browse109(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 109',
         ]);
     }
 
@@ -883,7 +883,7 @@ class MultiRoutesController extends AbstractController
     public function browse110(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 110',
         ]);
     }
 
@@ -891,7 +891,7 @@ class MultiRoutesController extends AbstractController
     public function browse111(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 111',
         ]);
     }
 
@@ -899,7 +899,7 @@ class MultiRoutesController extends AbstractController
     public function browse112(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 112',
         ]);
     }
 
@@ -907,7 +907,7 @@ class MultiRoutesController extends AbstractController
     public function browse113(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 113',
         ]);
     }
 
@@ -915,7 +915,7 @@ class MultiRoutesController extends AbstractController
     public function browse114(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 114',
         ]);
     }
 
@@ -923,7 +923,7 @@ class MultiRoutesController extends AbstractController
     public function browse115(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 115',
         ]);
     }
 
@@ -931,7 +931,7 @@ class MultiRoutesController extends AbstractController
     public function browse116(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 116',
         ]);
     }
 
@@ -939,7 +939,7 @@ class MultiRoutesController extends AbstractController
     public function browse117(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 117',
         ]);
     }
 
@@ -947,7 +947,7 @@ class MultiRoutesController extends AbstractController
     public function browse118(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 118',
         ]);
     }
 
@@ -955,7 +955,7 @@ class MultiRoutesController extends AbstractController
     public function browse119(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 119',
         ]);
     }
 
@@ -963,7 +963,7 @@ class MultiRoutesController extends AbstractController
     public function browse120(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 120',
         ]);
     }
 
@@ -971,7 +971,7 @@ class MultiRoutesController extends AbstractController
     public function browse121(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 121',
         ]);
     }
 
@@ -979,7 +979,7 @@ class MultiRoutesController extends AbstractController
     public function browse122(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 122',
         ]);
     }
 
@@ -987,7 +987,7 @@ class MultiRoutesController extends AbstractController
     public function browse123(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 123',
         ]);
     }
 
@@ -995,7 +995,7 @@ class MultiRoutesController extends AbstractController
     public function browse124(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 124',
         ]);
     }
 
@@ -1003,7 +1003,7 @@ class MultiRoutesController extends AbstractController
     public function browse125(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 125',
         ]);
     }
 
@@ -1011,7 +1011,7 @@ class MultiRoutesController extends AbstractController
     public function browse126(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 126',
         ]);
     }
 
@@ -1019,7 +1019,7 @@ class MultiRoutesController extends AbstractController
     public function browse127(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 127',
         ]);
     }
 
@@ -1027,7 +1027,7 @@ class MultiRoutesController extends AbstractController
     public function browse128(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 128',
         ]);
     }
 
@@ -1035,7 +1035,7 @@ class MultiRoutesController extends AbstractController
     public function browse129(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 129',
         ]);
     }
 
@@ -1043,7 +1043,7 @@ class MultiRoutesController extends AbstractController
     public function browse130(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 130',
         ]);
     }
 
@@ -1051,7 +1051,7 @@ class MultiRoutesController extends AbstractController
     public function browse131(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 131',
         ]);
     }
 
@@ -1059,7 +1059,7 @@ class MultiRoutesController extends AbstractController
     public function browse132(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 132',
         ]);
     }
 
@@ -1067,7 +1067,7 @@ class MultiRoutesController extends AbstractController
     public function browse133(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 133',
         ]);
     }
 
@@ -1075,7 +1075,7 @@ class MultiRoutesController extends AbstractController
     public function browse134(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 134',
         ]);
     }
 
@@ -1083,7 +1083,7 @@ class MultiRoutesController extends AbstractController
     public function browse135(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 135',
         ]);
     }
 
@@ -1091,7 +1091,7 @@ class MultiRoutesController extends AbstractController
     public function browse136(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 136',
         ]);
     }
 
@@ -1099,7 +1099,7 @@ class MultiRoutesController extends AbstractController
     public function browse137(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 137',
         ]);
     }
 
@@ -1107,7 +1107,7 @@ class MultiRoutesController extends AbstractController
     public function browse138(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 138',
         ]);
     }
 
@@ -1115,7 +1115,7 @@ class MultiRoutesController extends AbstractController
     public function browse139(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 139',
         ]);
     }
 
@@ -1123,7 +1123,7 @@ class MultiRoutesController extends AbstractController
     public function browse140(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 140',
         ]);
     }
 
@@ -1131,7 +1131,7 @@ class MultiRoutesController extends AbstractController
     public function browse141(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 141',
         ]);
     }
 
@@ -1139,7 +1139,7 @@ class MultiRoutesController extends AbstractController
     public function browse142(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 142',
         ]);
     }
 
@@ -1147,7 +1147,7 @@ class MultiRoutesController extends AbstractController
     public function browse143(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 143',
         ]);
     }
 
@@ -1155,7 +1155,7 @@ class MultiRoutesController extends AbstractController
     public function browse144(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 144',
         ]);
     }
 
@@ -1163,7 +1163,7 @@ class MultiRoutesController extends AbstractController
     public function browse145(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 145',
         ]);
     }
 
@@ -1171,7 +1171,7 @@ class MultiRoutesController extends AbstractController
     public function browse146(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 146',
         ]);
     }
 
@@ -1179,7 +1179,7 @@ class MultiRoutesController extends AbstractController
     public function browse147(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 147',
         ]);
     }
 
@@ -1187,7 +1187,7 @@ class MultiRoutesController extends AbstractController
     public function browse148(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 148',
         ]);
     }
 
@@ -1195,7 +1195,7 @@ class MultiRoutesController extends AbstractController
     public function browse149(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 149',
         ]);
     }
 
@@ -1203,7 +1203,7 @@ class MultiRoutesController extends AbstractController
     public function browse150(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 150',
         ]);
     }
 
@@ -1211,7 +1211,7 @@ class MultiRoutesController extends AbstractController
     public function browse151(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 151',
         ]);
     }
 
@@ -1219,7 +1219,7 @@ class MultiRoutesController extends AbstractController
     public function browse152(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 152',
         ]);
     }
 
@@ -1227,7 +1227,7 @@ class MultiRoutesController extends AbstractController
     public function browse153(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 153',
         ]);
     }
 
@@ -1235,7 +1235,7 @@ class MultiRoutesController extends AbstractController
     public function browse154(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 154',
         ]);
     }
 
@@ -1243,7 +1243,7 @@ class MultiRoutesController extends AbstractController
     public function browse155(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 155',
         ]);
     }
 
@@ -1251,7 +1251,7 @@ class MultiRoutesController extends AbstractController
     public function browse156(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 156',
         ]);
     }
 
@@ -1259,7 +1259,7 @@ class MultiRoutesController extends AbstractController
     public function browse157(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 157',
         ]);
     }
 
@@ -1267,7 +1267,7 @@ class MultiRoutesController extends AbstractController
     public function browse158(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 158',
         ]);
     }
 
@@ -1275,7 +1275,7 @@ class MultiRoutesController extends AbstractController
     public function browse159(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 159',
         ]);
     }
 
@@ -1283,7 +1283,7 @@ class MultiRoutesController extends AbstractController
     public function browse160(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 160',
         ]);
     }
 
@@ -1291,7 +1291,7 @@ class MultiRoutesController extends AbstractController
     public function browse161(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 161',
         ]);
     }
 
@@ -1299,7 +1299,7 @@ class MultiRoutesController extends AbstractController
     public function browse162(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 162',
         ]);
     }
 
@@ -1307,7 +1307,7 @@ class MultiRoutesController extends AbstractController
     public function browse163(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 163',
         ]);
     }
 
@@ -1315,7 +1315,7 @@ class MultiRoutesController extends AbstractController
     public function browse164(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 164',
         ]);
     }
 
@@ -1323,7 +1323,7 @@ class MultiRoutesController extends AbstractController
     public function browse165(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 165',
         ]);
     }
 
@@ -1331,7 +1331,7 @@ class MultiRoutesController extends AbstractController
     public function browse166(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 166',
         ]);
     }
 
@@ -1339,7 +1339,7 @@ class MultiRoutesController extends AbstractController
     public function browse167(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 167',
         ]);
     }
 
@@ -1347,7 +1347,7 @@ class MultiRoutesController extends AbstractController
     public function browse168(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 168',
         ]);
     }
 
@@ -1355,7 +1355,7 @@ class MultiRoutesController extends AbstractController
     public function browse169(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 169',
         ]);
     }
 
@@ -1363,7 +1363,7 @@ class MultiRoutesController extends AbstractController
     public function browse170(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 170',
         ]);
     }
 
@@ -1371,7 +1371,7 @@ class MultiRoutesController extends AbstractController
     public function browse171(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 171',
         ]);
     }
 
@@ -1379,7 +1379,7 @@ class MultiRoutesController extends AbstractController
     public function browse172(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 172',
         ]);
     }
 
@@ -1387,7 +1387,7 @@ class MultiRoutesController extends AbstractController
     public function browse173(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 173',
         ]);
     }
 
@@ -1395,7 +1395,7 @@ class MultiRoutesController extends AbstractController
     public function browse174(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 174',
         ]);
     }
 
@@ -1403,7 +1403,7 @@ class MultiRoutesController extends AbstractController
     public function browse175(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 175',
         ]);
     }
 
@@ -1411,7 +1411,7 @@ class MultiRoutesController extends AbstractController
     public function browse176(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 176',
         ]);
     }
 
@@ -1419,7 +1419,7 @@ class MultiRoutesController extends AbstractController
     public function browse177(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 177',
         ]);
     }
 
@@ -1427,7 +1427,7 @@ class MultiRoutesController extends AbstractController
     public function browse178(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 178',
         ]);
     }
 
@@ -1435,7 +1435,7 @@ class MultiRoutesController extends AbstractController
     public function browse179(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 179',
         ]);
     }
 
@@ -1443,7 +1443,7 @@ class MultiRoutesController extends AbstractController
     public function browse180(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 180',
         ]);
     }
 
@@ -1451,7 +1451,7 @@ class MultiRoutesController extends AbstractController
     public function browse181(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 181',
         ]);
     }
 
@@ -1459,7 +1459,7 @@ class MultiRoutesController extends AbstractController
     public function browse182(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 182',
         ]);
     }
 
@@ -1467,7 +1467,7 @@ class MultiRoutesController extends AbstractController
     public function browse183(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 183',
         ]);
     }
 
@@ -1475,7 +1475,7 @@ class MultiRoutesController extends AbstractController
     public function browse184(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 184',
         ]);
     }
 
@@ -1483,7 +1483,7 @@ class MultiRoutesController extends AbstractController
     public function browse185(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 185',
         ]);
     }
 
@@ -1491,7 +1491,7 @@ class MultiRoutesController extends AbstractController
     public function browse186(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 186',
         ]);
     }
 
@@ -1499,7 +1499,7 @@ class MultiRoutesController extends AbstractController
     public function browse187(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 187',
         ]);
     }
 
@@ -1507,7 +1507,7 @@ class MultiRoutesController extends AbstractController
     public function browse188(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 188',
         ]);
     }
 
@@ -1515,7 +1515,7 @@ class MultiRoutesController extends AbstractController
     public function browse189(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 189',
         ]);
     }
 
@@ -1523,7 +1523,7 @@ class MultiRoutesController extends AbstractController
     public function browse190(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 190',
         ]);
     }
 
@@ -1531,7 +1531,7 @@ class MultiRoutesController extends AbstractController
     public function browse191(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 191',
         ]);
     }
 
@@ -1539,7 +1539,7 @@ class MultiRoutesController extends AbstractController
     public function browse192(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 192',
         ]);
     }
 
@@ -1547,7 +1547,7 @@ class MultiRoutesController extends AbstractController
     public function browse193(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 193',
         ]);
     }
 
@@ -1555,7 +1555,7 @@ class MultiRoutesController extends AbstractController
     public function browse194(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 194',
         ]);
     }
 
@@ -1563,7 +1563,7 @@ class MultiRoutesController extends AbstractController
     public function browse195(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 195',
         ]);
     }
 
@@ -1571,7 +1571,7 @@ class MultiRoutesController extends AbstractController
     public function browse196(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 196',
         ]);
     }
 
@@ -1579,7 +1579,7 @@ class MultiRoutesController extends AbstractController
     public function browse197(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 197',
         ]);
     }
 
@@ -1587,7 +1587,7 @@ class MultiRoutesController extends AbstractController
     public function browse198(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 198',
         ]);
     }
 
@@ -1595,7 +1595,7 @@ class MultiRoutesController extends AbstractController
     public function browse199(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 199',
         ]);
     }
 
@@ -1603,7 +1603,7 @@ class MultiRoutesController extends AbstractController
     public function browse200(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 200',
         ]);
     }
 
@@ -1611,7 +1611,7 @@ class MultiRoutesController extends AbstractController
     public function browse201(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 201',
         ]);
     }
 
@@ -1619,7 +1619,7 @@ class MultiRoutesController extends AbstractController
     public function browse202(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 202',
         ]);
     }
 
@@ -1627,7 +1627,7 @@ class MultiRoutesController extends AbstractController
     public function browse203(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 203',
         ]);
     }
 
@@ -1635,7 +1635,7 @@ class MultiRoutesController extends AbstractController
     public function browse204(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 204',
         ]);
     }
 
@@ -1643,7 +1643,7 @@ class MultiRoutesController extends AbstractController
     public function browse205(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 205',
         ]);
     }
 
@@ -1651,7 +1651,7 @@ class MultiRoutesController extends AbstractController
     public function browse206(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 206',
         ]);
     }
 
@@ -1659,7 +1659,7 @@ class MultiRoutesController extends AbstractController
     public function browse207(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 207',
         ]);
     }
 
@@ -1667,7 +1667,7 @@ class MultiRoutesController extends AbstractController
     public function browse208(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 208',
         ]);
     }
 
@@ -1675,7 +1675,7 @@ class MultiRoutesController extends AbstractController
     public function browse209(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 209',
         ]);
     }
 
@@ -1683,7 +1683,7 @@ class MultiRoutesController extends AbstractController
     public function browse210(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 210',
         ]);
     }
 
@@ -1691,7 +1691,7 @@ class MultiRoutesController extends AbstractController
     public function browse211(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 211',
         ]);
     }
 
@@ -1699,7 +1699,7 @@ class MultiRoutesController extends AbstractController
     public function browse212(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 212',
         ]);
     }
 
@@ -1707,7 +1707,7 @@ class MultiRoutesController extends AbstractController
     public function browse213(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 213',
         ]);
     }
 
@@ -1715,7 +1715,7 @@ class MultiRoutesController extends AbstractController
     public function browse214(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 214',
         ]);
     }
 
@@ -1723,7 +1723,7 @@ class MultiRoutesController extends AbstractController
     public function browse215(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 215',
         ]);
     }
 
@@ -1731,7 +1731,7 @@ class MultiRoutesController extends AbstractController
     public function browse216(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 216',
         ]);
     }
 
@@ -1739,7 +1739,7 @@ class MultiRoutesController extends AbstractController
     public function browse217(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 217',
         ]);
     }
 
@@ -1747,7 +1747,7 @@ class MultiRoutesController extends AbstractController
     public function browse218(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 218',
         ]);
     }
 
@@ -1755,7 +1755,7 @@ class MultiRoutesController extends AbstractController
     public function browse219(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 219',
         ]);
     }
 
@@ -1763,7 +1763,7 @@ class MultiRoutesController extends AbstractController
     public function browse220(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 220',
         ]);
     }
 
@@ -1771,7 +1771,7 @@ class MultiRoutesController extends AbstractController
     public function browse221(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 221',
         ]);
     }
 
@@ -1779,7 +1779,7 @@ class MultiRoutesController extends AbstractController
     public function browse222(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 222',
         ]);
     }
 
@@ -1787,7 +1787,7 @@ class MultiRoutesController extends AbstractController
     public function browse223(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 223',
         ]);
     }
 
@@ -1795,7 +1795,7 @@ class MultiRoutesController extends AbstractController
     public function browse224(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 224',
         ]);
     }
 
@@ -1803,7 +1803,7 @@ class MultiRoutesController extends AbstractController
     public function browse225(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 225',
         ]);
     }
 
@@ -1811,7 +1811,7 @@ class MultiRoutesController extends AbstractController
     public function browse226(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 226',
         ]);
     }
 
@@ -1819,7 +1819,7 @@ class MultiRoutesController extends AbstractController
     public function browse227(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 227',
         ]);
     }
 
@@ -1827,7 +1827,7 @@ class MultiRoutesController extends AbstractController
     public function browse228(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 228',
         ]);
     }
 
@@ -1835,7 +1835,7 @@ class MultiRoutesController extends AbstractController
     public function browse229(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 229',
         ]);
     }
 
@@ -1843,7 +1843,7 @@ class MultiRoutesController extends AbstractController
     public function browse230(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 230',
         ]);
     }
 
@@ -1851,7 +1851,7 @@ class MultiRoutesController extends AbstractController
     public function browse231(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 231',
         ]);
     }
 
@@ -1859,7 +1859,7 @@ class MultiRoutesController extends AbstractController
     public function browse232(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 232',
         ]);
     }
 
@@ -1867,7 +1867,7 @@ class MultiRoutesController extends AbstractController
     public function browse233(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 233',
         ]);
     }
 
@@ -1875,7 +1875,7 @@ class MultiRoutesController extends AbstractController
     public function browse234(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 234',
         ]);
     }
 
@@ -1883,7 +1883,7 @@ class MultiRoutesController extends AbstractController
     public function browse235(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 235',
         ]);
     }
 
@@ -1891,7 +1891,7 @@ class MultiRoutesController extends AbstractController
     public function browse236(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 236',
         ]);
     }
 
@@ -1899,7 +1899,7 @@ class MultiRoutesController extends AbstractController
     public function browse237(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 237',
         ]);
     }
 
@@ -1907,7 +1907,7 @@ class MultiRoutesController extends AbstractController
     public function browse238(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 238',
         ]);
     }
 
@@ -1915,7 +1915,7 @@ class MultiRoutesController extends AbstractController
     public function browse239(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 239',
         ]);
     }
 
@@ -1923,7 +1923,7 @@ class MultiRoutesController extends AbstractController
     public function browse240(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 240',
         ]);
     }
 
@@ -1931,7 +1931,7 @@ class MultiRoutesController extends AbstractController
     public function browse241(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 241',
         ]);
     }
 
@@ -1939,7 +1939,7 @@ class MultiRoutesController extends AbstractController
     public function browse242(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 242',
         ]);
     }
 
@@ -1947,7 +1947,7 @@ class MultiRoutesController extends AbstractController
     public function browse243(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 243',
         ]);
     }
 
@@ -1955,7 +1955,7 @@ class MultiRoutesController extends AbstractController
     public function browse244(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 244',
         ]);
     }
 
@@ -1963,7 +1963,7 @@ class MultiRoutesController extends AbstractController
     public function browse245(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 245',
         ]);
     }
 
@@ -1971,7 +1971,7 @@ class MultiRoutesController extends AbstractController
     public function browse246(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 246',
         ]);
     }
 
@@ -1979,7 +1979,7 @@ class MultiRoutesController extends AbstractController
     public function browse247(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 247',
         ]);
     }
 
@@ -1987,7 +1987,7 @@ class MultiRoutesController extends AbstractController
     public function browse248(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 248',
         ]);
     }
 
@@ -1995,7 +1995,7 @@ class MultiRoutesController extends AbstractController
     public function browse249(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 249',
         ]);
     }
 
@@ -2003,7 +2003,7 @@ class MultiRoutesController extends AbstractController
     public function browse250(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 250',
         ]);
     }
 
@@ -2011,7 +2011,7 @@ class MultiRoutesController extends AbstractController
     public function browse251(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 251',
         ]);
     }
 
@@ -2019,7 +2019,7 @@ class MultiRoutesController extends AbstractController
     public function browse252(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 252',
         ]);
     }
 
@@ -2027,7 +2027,7 @@ class MultiRoutesController extends AbstractController
     public function browse253(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 253',
         ]);
     }
 
@@ -2035,7 +2035,7 @@ class MultiRoutesController extends AbstractController
     public function browse254(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 254',
         ]);
     }
 
@@ -2043,7 +2043,7 @@ class MultiRoutesController extends AbstractController
     public function browse255(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 255',
         ]);
     }
 
@@ -2051,7 +2051,7 @@ class MultiRoutesController extends AbstractController
     public function browse256(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 256',
         ]);
     }
 
@@ -2059,7 +2059,7 @@ class MultiRoutesController extends AbstractController
     public function browse257(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 257',
         ]);
     }
 
@@ -2067,7 +2067,7 @@ class MultiRoutesController extends AbstractController
     public function browse258(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 258',
         ]);
     }
 
@@ -2075,7 +2075,7 @@ class MultiRoutesController extends AbstractController
     public function browse259(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 259',
         ]);
     }
 
@@ -2083,7 +2083,7 @@ class MultiRoutesController extends AbstractController
     public function browse260(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 260',
         ]);
     }
 
@@ -2091,7 +2091,7 @@ class MultiRoutesController extends AbstractController
     public function browse261(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 261',
         ]);
     }
 
@@ -2099,7 +2099,7 @@ class MultiRoutesController extends AbstractController
     public function browse262(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 262',
         ]);
     }
 
@@ -2107,7 +2107,7 @@ class MultiRoutesController extends AbstractController
     public function browse263(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 263',
         ]);
     }
 
@@ -2115,7 +2115,7 @@ class MultiRoutesController extends AbstractController
     public function browse264(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 264',
         ]);
     }
 
@@ -2123,7 +2123,7 @@ class MultiRoutesController extends AbstractController
     public function browse265(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 265',
         ]);
     }
 
@@ -2131,7 +2131,7 @@ class MultiRoutesController extends AbstractController
     public function browse266(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 266',
         ]);
     }
 
@@ -2139,7 +2139,7 @@ class MultiRoutesController extends AbstractController
     public function browse267(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 267',
         ]);
     }
 
@@ -2147,7 +2147,7 @@ class MultiRoutesController extends AbstractController
     public function browse268(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 268',
         ]);
     }
 
@@ -2155,7 +2155,7 @@ class MultiRoutesController extends AbstractController
     public function browse269(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 269',
         ]);
     }
 
@@ -2163,7 +2163,7 @@ class MultiRoutesController extends AbstractController
     public function browse270(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 270',
         ]);
     }
 
@@ -2171,7 +2171,7 @@ class MultiRoutesController extends AbstractController
     public function browse271(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 271',
         ]);
     }
 
@@ -2179,7 +2179,7 @@ class MultiRoutesController extends AbstractController
     public function browse272(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 272',
         ]);
     }
 
@@ -2187,7 +2187,7 @@ class MultiRoutesController extends AbstractController
     public function browse273(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 273',
         ]);
     }
 
@@ -2195,7 +2195,7 @@ class MultiRoutesController extends AbstractController
     public function browse274(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 274',
         ]);
     }
 
@@ -2203,7 +2203,7 @@ class MultiRoutesController extends AbstractController
     public function browse275(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 275',
         ]);
     }
 
@@ -2211,7 +2211,7 @@ class MultiRoutesController extends AbstractController
     public function browse276(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 276',
         ]);
     }
 
@@ -2219,7 +2219,7 @@ class MultiRoutesController extends AbstractController
     public function browse277(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 277',
         ]);
     }
 
@@ -2227,7 +2227,7 @@ class MultiRoutesController extends AbstractController
     public function browse278(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 278',
         ]);
     }
 
@@ -2235,7 +2235,7 @@ class MultiRoutesController extends AbstractController
     public function browse279(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 279',
         ]);
     }
 
@@ -2243,7 +2243,7 @@ class MultiRoutesController extends AbstractController
     public function browse280(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 280',
         ]);
     }
 
@@ -2251,7 +2251,7 @@ class MultiRoutesController extends AbstractController
     public function browse281(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 281',
         ]);
     }
 
@@ -2259,7 +2259,7 @@ class MultiRoutesController extends AbstractController
     public function browse282(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 282',
         ]);
     }
 
@@ -2267,7 +2267,7 @@ class MultiRoutesController extends AbstractController
     public function browse283(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 283',
         ]);
     }
 
@@ -2275,7 +2275,7 @@ class MultiRoutesController extends AbstractController
     public function browse284(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 284',
         ]);
     }
 
@@ -2283,7 +2283,7 @@ class MultiRoutesController extends AbstractController
     public function browse285(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 285',
         ]);
     }
 
@@ -2291,7 +2291,7 @@ class MultiRoutesController extends AbstractController
     public function browse286(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 286',
         ]);
     }
 
@@ -2299,7 +2299,7 @@ class MultiRoutesController extends AbstractController
     public function browse287(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 287',
         ]);
     }
 
@@ -2307,7 +2307,7 @@ class MultiRoutesController extends AbstractController
     public function browse288(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 288',
         ]);
     }
 
@@ -2315,7 +2315,7 @@ class MultiRoutesController extends AbstractController
     public function browse289(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 289',
         ]);
     }
 
@@ -2323,7 +2323,7 @@ class MultiRoutesController extends AbstractController
     public function browse290(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 290',
         ]);
     }
 
@@ -2331,7 +2331,7 @@ class MultiRoutesController extends AbstractController
     public function browse291(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 291',
         ]);
     }
 
@@ -2339,7 +2339,7 @@ class MultiRoutesController extends AbstractController
     public function browse292(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 292',
         ]);
     }
 
@@ -2347,7 +2347,7 @@ class MultiRoutesController extends AbstractController
     public function browse293(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 293',
         ]);
     }
 
@@ -2355,7 +2355,7 @@ class MultiRoutesController extends AbstractController
     public function browse294(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 294',
         ]);
     }
 
@@ -2363,7 +2363,7 @@ class MultiRoutesController extends AbstractController
     public function browse295(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 295',
         ]);
     }
 
@@ -2371,7 +2371,7 @@ class MultiRoutesController extends AbstractController
     public function browse296(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 296',
         ]);
     }
 
@@ -2379,7 +2379,7 @@ class MultiRoutesController extends AbstractController
     public function browse297(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 297',
         ]);
     }
 
@@ -2387,7 +2387,7 @@ class MultiRoutesController extends AbstractController
     public function browse298(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 298',
         ]);
     }
 
@@ -2395,7 +2395,7 @@ class MultiRoutesController extends AbstractController
     public function browse299(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 299',
         ]);
     }
 
@@ -2403,7 +2403,7 @@ class MultiRoutesController extends AbstractController
     public function browse300(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 300',
         ]);
     }
 
@@ -2411,7 +2411,7 @@ class MultiRoutesController extends AbstractController
     public function browse301(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 301',
         ]);
     }
 
@@ -2419,7 +2419,7 @@ class MultiRoutesController extends AbstractController
     public function browse302(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 302',
         ]);
     }
 
@@ -2427,7 +2427,7 @@ class MultiRoutesController extends AbstractController
     public function browse303(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 303',
         ]);
     }
 
@@ -2435,7 +2435,7 @@ class MultiRoutesController extends AbstractController
     public function browse304(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 304',
         ]);
     }
 
@@ -2443,7 +2443,7 @@ class MultiRoutesController extends AbstractController
     public function browse305(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 305',
         ]);
     }
 
@@ -2451,7 +2451,7 @@ class MultiRoutesController extends AbstractController
     public function browse306(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 306',
         ]);
     }
 
@@ -2459,7 +2459,7 @@ class MultiRoutesController extends AbstractController
     public function browse307(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 307',
         ]);
     }
 
@@ -2467,7 +2467,7 @@ class MultiRoutesController extends AbstractController
     public function browse308(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 308',
         ]);
     }
 
@@ -2475,7 +2475,7 @@ class MultiRoutesController extends AbstractController
     public function browse309(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 309',
         ]);
     }
 
@@ -2483,7 +2483,7 @@ class MultiRoutesController extends AbstractController
     public function browse310(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 310',
         ]);
     }
 
@@ -2491,7 +2491,7 @@ class MultiRoutesController extends AbstractController
     public function browse311(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 311',
         ]);
     }
 
@@ -2499,7 +2499,7 @@ class MultiRoutesController extends AbstractController
     public function browse312(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 312',
         ]);
     }
 
@@ -2507,7 +2507,7 @@ class MultiRoutesController extends AbstractController
     public function browse313(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 313',
         ]);
     }
 
@@ -2515,7 +2515,7 @@ class MultiRoutesController extends AbstractController
     public function browse314(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 314',
         ]);
     }
 
@@ -2523,7 +2523,7 @@ class MultiRoutesController extends AbstractController
     public function browse315(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 315',
         ]);
     }
 
@@ -2531,7 +2531,7 @@ class MultiRoutesController extends AbstractController
     public function browse316(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 316',
         ]);
     }
 
@@ -2539,7 +2539,7 @@ class MultiRoutesController extends AbstractController
     public function browse317(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 317',
         ]);
     }
 
@@ -2547,7 +2547,7 @@ class MultiRoutesController extends AbstractController
     public function browse318(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 318',
         ]);
     }
 
@@ -2555,7 +2555,7 @@ class MultiRoutesController extends AbstractController
     public function browse319(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 319',
         ]);
     }
 
@@ -2563,7 +2563,7 @@ class MultiRoutesController extends AbstractController
     public function browse320(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 320',
         ]);
     }
 
@@ -2571,7 +2571,7 @@ class MultiRoutesController extends AbstractController
     public function browse321(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 321',
         ]);
     }
 
@@ -2579,7 +2579,7 @@ class MultiRoutesController extends AbstractController
     public function browse322(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 322',
         ]);
     }
 
@@ -2587,7 +2587,7 @@ class MultiRoutesController extends AbstractController
     public function browse323(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 323',
         ]);
     }
 
@@ -2595,7 +2595,7 @@ class MultiRoutesController extends AbstractController
     public function browse324(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 324',
         ]);
     }
 
@@ -2603,7 +2603,7 @@ class MultiRoutesController extends AbstractController
     public function browse325(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 325',
         ]);
     }
 
@@ -2611,7 +2611,7 @@ class MultiRoutesController extends AbstractController
     public function browse326(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 326',
         ]);
     }
 
@@ -2619,7 +2619,7 @@ class MultiRoutesController extends AbstractController
     public function browse327(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 327',
         ]);
     }
 
@@ -2627,7 +2627,7 @@ class MultiRoutesController extends AbstractController
     public function browse328(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 328',
         ]);
     }
 
@@ -2635,7 +2635,7 @@ class MultiRoutesController extends AbstractController
     public function browse329(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 329',
         ]);
     }
 
@@ -2643,7 +2643,7 @@ class MultiRoutesController extends AbstractController
     public function browse330(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 330',
         ]);
     }
 
@@ -2651,7 +2651,7 @@ class MultiRoutesController extends AbstractController
     public function browse331(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 331',
         ]);
     }
 
@@ -2659,7 +2659,7 @@ class MultiRoutesController extends AbstractController
     public function browse332(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 332',
         ]);
     }
 
@@ -2667,7 +2667,7 @@ class MultiRoutesController extends AbstractController
     public function browse333(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 333',
         ]);
     }
 
@@ -2675,7 +2675,7 @@ class MultiRoutesController extends AbstractController
     public function browse334(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 334',
         ]);
     }
 
@@ -2683,7 +2683,7 @@ class MultiRoutesController extends AbstractController
     public function browse335(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 335',
         ]);
     }
 
@@ -2691,7 +2691,7 @@ class MultiRoutesController extends AbstractController
     public function browse336(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 336',
         ]);
     }
 
@@ -2699,7 +2699,7 @@ class MultiRoutesController extends AbstractController
     public function browse337(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 337',
         ]);
     }
 
@@ -2707,7 +2707,7 @@ class MultiRoutesController extends AbstractController
     public function browse338(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 338',
         ]);
     }
 
@@ -2715,7 +2715,7 @@ class MultiRoutesController extends AbstractController
     public function browse339(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 339',
         ]);
     }
 
@@ -2723,7 +2723,7 @@ class MultiRoutesController extends AbstractController
     public function browse340(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 340',
         ]);
     }
 
@@ -2731,7 +2731,7 @@ class MultiRoutesController extends AbstractController
     public function browse341(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 341',
         ]);
     }
 
@@ -2739,7 +2739,7 @@ class MultiRoutesController extends AbstractController
     public function browse342(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 342',
         ]);
     }
 
@@ -2747,7 +2747,7 @@ class MultiRoutesController extends AbstractController
     public function browse343(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 343',
         ]);
     }
 
@@ -2755,7 +2755,7 @@ class MultiRoutesController extends AbstractController
     public function browse344(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 344',
         ]);
     }
 
@@ -2763,7 +2763,7 @@ class MultiRoutesController extends AbstractController
     public function browse345(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 345',
         ]);
     }
 
@@ -2771,7 +2771,7 @@ class MultiRoutesController extends AbstractController
     public function browse346(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 346',
         ]);
     }
 
@@ -2779,7 +2779,7 @@ class MultiRoutesController extends AbstractController
     public function browse347(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 347',
         ]);
     }
 
@@ -2787,7 +2787,7 @@ class MultiRoutesController extends AbstractController
     public function browse348(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 348',
         ]);
     }
 
@@ -2795,7 +2795,7 @@ class MultiRoutesController extends AbstractController
     public function browse349(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 349',
         ]);
     }
 
@@ -2803,7 +2803,7 @@ class MultiRoutesController extends AbstractController
     public function browse350(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 350',
         ]);
     }
 
@@ -2811,7 +2811,7 @@ class MultiRoutesController extends AbstractController
     public function browse351(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 351',
         ]);
     }
 
@@ -2819,7 +2819,7 @@ class MultiRoutesController extends AbstractController
     public function browse352(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 352',
         ]);
     }
 
@@ -2827,7 +2827,7 @@ class MultiRoutesController extends AbstractController
     public function browse353(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 353',
         ]);
     }
 
@@ -2835,7 +2835,7 @@ class MultiRoutesController extends AbstractController
     public function browse354(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 354',
         ]);
     }
 
@@ -2843,7 +2843,7 @@ class MultiRoutesController extends AbstractController
     public function browse355(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 355',
         ]);
     }
 
@@ -2851,7 +2851,7 @@ class MultiRoutesController extends AbstractController
     public function browse356(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 356',
         ]);
     }
 
@@ -2859,7 +2859,7 @@ class MultiRoutesController extends AbstractController
     public function browse357(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 357',
         ]);
     }
 
@@ -2867,7 +2867,7 @@ class MultiRoutesController extends AbstractController
     public function browse358(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 358',
         ]);
     }
 
@@ -2875,7 +2875,7 @@ class MultiRoutesController extends AbstractController
     public function browse359(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 359',
         ]);
     }
 
@@ -2883,7 +2883,7 @@ class MultiRoutesController extends AbstractController
     public function browse360(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 360',
         ]);
     }
 
@@ -2891,7 +2891,7 @@ class MultiRoutesController extends AbstractController
     public function browse361(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 361',
         ]);
     }
 
@@ -2899,7 +2899,7 @@ class MultiRoutesController extends AbstractController
     public function browse362(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 362',
         ]);
     }
 
@@ -2907,7 +2907,7 @@ class MultiRoutesController extends AbstractController
     public function browse363(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 363',
         ]);
     }
 
@@ -2915,7 +2915,7 @@ class MultiRoutesController extends AbstractController
     public function browse364(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 364',
         ]);
     }
 
@@ -2923,7 +2923,7 @@ class MultiRoutesController extends AbstractController
     public function browse365(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 365',
         ]);
     }
 
@@ -2931,7 +2931,7 @@ class MultiRoutesController extends AbstractController
     public function browse366(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 366',
         ]);
     }
 
@@ -2939,7 +2939,7 @@ class MultiRoutesController extends AbstractController
     public function browse367(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 367',
         ]);
     }
 
@@ -2947,7 +2947,7 @@ class MultiRoutesController extends AbstractController
     public function browse368(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 368',
         ]);
     }
 
@@ -2955,7 +2955,7 @@ class MultiRoutesController extends AbstractController
     public function browse369(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 369',
         ]);
     }
 
@@ -2963,7 +2963,7 @@ class MultiRoutesController extends AbstractController
     public function browse370(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 370',
         ]);
     }
 
@@ -2971,7 +2971,7 @@ class MultiRoutesController extends AbstractController
     public function browse371(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 371',
         ]);
     }
 
@@ -2979,7 +2979,7 @@ class MultiRoutesController extends AbstractController
     public function browse372(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 372',
         ]);
     }
 
@@ -2987,7 +2987,7 @@ class MultiRoutesController extends AbstractController
     public function browse373(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 373',
         ]);
     }
 
@@ -2995,7 +2995,7 @@ class MultiRoutesController extends AbstractController
     public function browse374(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 374',
         ]);
     }
 
@@ -3003,7 +3003,7 @@ class MultiRoutesController extends AbstractController
     public function browse375(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 375',
         ]);
     }
 
@@ -3011,7 +3011,7 @@ class MultiRoutesController extends AbstractController
     public function browse376(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 376',
         ]);
     }
 
@@ -3019,7 +3019,7 @@ class MultiRoutesController extends AbstractController
     public function browse377(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 377',
         ]);
     }
 
@@ -3027,7 +3027,7 @@ class MultiRoutesController extends AbstractController
     public function browse378(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 378',
         ]);
     }
 
@@ -3035,7 +3035,7 @@ class MultiRoutesController extends AbstractController
     public function browse379(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 379',
         ]);
     }
 
@@ -3043,7 +3043,7 @@ class MultiRoutesController extends AbstractController
     public function browse380(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 380',
         ]);
     }
 
@@ -3051,7 +3051,7 @@ class MultiRoutesController extends AbstractController
     public function browse381(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 381',
         ]);
     }
 
@@ -3059,7 +3059,7 @@ class MultiRoutesController extends AbstractController
     public function browse382(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 382',
         ]);
     }
 
@@ -3067,7 +3067,7 @@ class MultiRoutesController extends AbstractController
     public function browse383(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 383',
         ]);
     }
 
@@ -3075,7 +3075,7 @@ class MultiRoutesController extends AbstractController
     public function browse384(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 384',
         ]);
     }
 
@@ -3083,7 +3083,7 @@ class MultiRoutesController extends AbstractController
     public function browse385(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 385',
         ]);
     }
 
@@ -3091,7 +3091,7 @@ class MultiRoutesController extends AbstractController
     public function browse386(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 386',
         ]);
     }
 
@@ -3099,7 +3099,7 @@ class MultiRoutesController extends AbstractController
     public function browse387(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 387',
         ]);
     }
 
@@ -3107,7 +3107,7 @@ class MultiRoutesController extends AbstractController
     public function browse388(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 388',
         ]);
     }
 
@@ -3115,7 +3115,7 @@ class MultiRoutesController extends AbstractController
     public function browse389(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 389',
         ]);
     }
 
@@ -3123,7 +3123,7 @@ class MultiRoutesController extends AbstractController
     public function browse390(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 390',
         ]);
     }
 
@@ -3131,7 +3131,7 @@ class MultiRoutesController extends AbstractController
     public function browse391(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 391',
         ]);
     }
 
@@ -3139,7 +3139,7 @@ class MultiRoutesController extends AbstractController
     public function browse392(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 392',
         ]);
     }
 
@@ -3147,7 +3147,7 @@ class MultiRoutesController extends AbstractController
     public function browse393(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 393',
         ]);
     }
 
@@ -3155,7 +3155,7 @@ class MultiRoutesController extends AbstractController
     public function browse394(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 394',
         ]);
     }
 
@@ -3163,7 +3163,7 @@ class MultiRoutesController extends AbstractController
     public function browse395(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 395',
         ]);
     }
 
@@ -3171,7 +3171,7 @@ class MultiRoutesController extends AbstractController
     public function browse396(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 396',
         ]);
     }
 
@@ -3179,7 +3179,7 @@ class MultiRoutesController extends AbstractController
     public function browse397(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 397',
         ]);
     }
 
@@ -3187,7 +3187,7 @@ class MultiRoutesController extends AbstractController
     public function browse398(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 398',
         ]);
     }
 
@@ -3195,7 +3195,7 @@ class MultiRoutesController extends AbstractController
     public function browse399(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 399',
         ]);
     }
 
@@ -3203,7 +3203,7 @@ class MultiRoutesController extends AbstractController
     public function browse400(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 400',
         ]);
     }
 
@@ -3211,7 +3211,7 @@ class MultiRoutesController extends AbstractController
     public function browse401(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 401',
         ]);
     }
 
@@ -3219,7 +3219,7 @@ class MultiRoutesController extends AbstractController
     public function browse402(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 402',
         ]);
     }
 
@@ -3227,7 +3227,7 @@ class MultiRoutesController extends AbstractController
     public function browse403(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 403',
         ]);
     }
 
@@ -3235,7 +3235,7 @@ class MultiRoutesController extends AbstractController
     public function browse404(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 404',
         ]);
     }
 
@@ -3243,7 +3243,7 @@ class MultiRoutesController extends AbstractController
     public function browse405(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 405',
         ]);
     }
 
@@ -3251,7 +3251,7 @@ class MultiRoutesController extends AbstractController
     public function browse406(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 406',
         ]);
     }
 
@@ -3259,7 +3259,7 @@ class MultiRoutesController extends AbstractController
     public function browse407(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 407',
         ]);
     }
 
@@ -3267,7 +3267,7 @@ class MultiRoutesController extends AbstractController
     public function browse408(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 408',
         ]);
     }
 
@@ -3275,7 +3275,7 @@ class MultiRoutesController extends AbstractController
     public function browse409(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 409',
         ]);
     }
 
@@ -3283,7 +3283,7 @@ class MultiRoutesController extends AbstractController
     public function browse410(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 410',
         ]);
     }
 
@@ -3291,7 +3291,7 @@ class MultiRoutesController extends AbstractController
     public function browse411(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 411',
         ]);
     }
 
@@ -3299,7 +3299,7 @@ class MultiRoutesController extends AbstractController
     public function browse412(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 412',
         ]);
     }
 
@@ -3307,7 +3307,7 @@ class MultiRoutesController extends AbstractController
     public function browse413(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 413',
         ]);
     }
 
@@ -3315,7 +3315,7 @@ class MultiRoutesController extends AbstractController
     public function browse414(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 414',
         ]);
     }
 
@@ -3323,7 +3323,7 @@ class MultiRoutesController extends AbstractController
     public function browse415(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 415',
         ]);
     }
 
@@ -3331,7 +3331,7 @@ class MultiRoutesController extends AbstractController
     public function browse416(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 416',
         ]);
     }
 
@@ -3339,7 +3339,7 @@ class MultiRoutesController extends AbstractController
     public function browse417(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 417',
         ]);
     }
 
@@ -3347,7 +3347,7 @@ class MultiRoutesController extends AbstractController
     public function browse418(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 418',
         ]);
     }
 
@@ -3355,7 +3355,7 @@ class MultiRoutesController extends AbstractController
     public function browse419(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 419',
         ]);
     }
 
@@ -3363,7 +3363,7 @@ class MultiRoutesController extends AbstractController
     public function browse420(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 420',
         ]);
     }
 
@@ -3371,7 +3371,7 @@ class MultiRoutesController extends AbstractController
     public function browse421(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 421',
         ]);
     }
 
@@ -3379,7 +3379,7 @@ class MultiRoutesController extends AbstractController
     public function browse422(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 422',
         ]);
     }
 
@@ -3387,7 +3387,7 @@ class MultiRoutesController extends AbstractController
     public function browse423(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 423',
         ]);
     }
 
@@ -3395,7 +3395,7 @@ class MultiRoutesController extends AbstractController
     public function browse424(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 424',
         ]);
     }
 
@@ -3403,7 +3403,7 @@ class MultiRoutesController extends AbstractController
     public function browse425(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 425',
         ]);
     }
 
@@ -3411,7 +3411,7 @@ class MultiRoutesController extends AbstractController
     public function browse426(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 426',
         ]);
     }
 
@@ -3419,7 +3419,7 @@ class MultiRoutesController extends AbstractController
     public function browse427(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 427',
         ]);
     }
 
@@ -3427,7 +3427,7 @@ class MultiRoutesController extends AbstractController
     public function browse428(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 428',
         ]);
     }
 
@@ -3435,7 +3435,7 @@ class MultiRoutesController extends AbstractController
     public function browse429(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 429',
         ]);
     }
 
@@ -3443,7 +3443,7 @@ class MultiRoutesController extends AbstractController
     public function browse430(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 430',
         ]);
     }
 
@@ -3451,7 +3451,7 @@ class MultiRoutesController extends AbstractController
     public function browse431(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 431',
         ]);
     }
 
@@ -3459,7 +3459,7 @@ class MultiRoutesController extends AbstractController
     public function browse432(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 432',
         ]);
     }
 
@@ -3467,7 +3467,7 @@ class MultiRoutesController extends AbstractController
     public function browse433(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 433',
         ]);
     }
 
@@ -3475,7 +3475,7 @@ class MultiRoutesController extends AbstractController
     public function browse434(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 434',
         ]);
     }
 
@@ -3483,7 +3483,7 @@ class MultiRoutesController extends AbstractController
     public function browse435(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 435',
         ]);
     }
 
@@ -3491,7 +3491,7 @@ class MultiRoutesController extends AbstractController
     public function browse436(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 436',
         ]);
     }
 
@@ -3499,7 +3499,7 @@ class MultiRoutesController extends AbstractController
     public function browse437(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 437',
         ]);
     }
 
@@ -3507,7 +3507,7 @@ class MultiRoutesController extends AbstractController
     public function browse438(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 438',
         ]);
     }
 
@@ -3515,7 +3515,7 @@ class MultiRoutesController extends AbstractController
     public function browse439(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 439',
         ]);
     }
 
@@ -3523,7 +3523,7 @@ class MultiRoutesController extends AbstractController
     public function browse440(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 440',
         ]);
     }
 
@@ -3531,7 +3531,7 @@ class MultiRoutesController extends AbstractController
     public function browse441(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 441',
         ]);
     }
 
@@ -3539,7 +3539,7 @@ class MultiRoutesController extends AbstractController
     public function browse442(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 442',
         ]);
     }
 
@@ -3547,7 +3547,7 @@ class MultiRoutesController extends AbstractController
     public function browse443(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 443',
         ]);
     }
 
@@ -3555,7 +3555,7 @@ class MultiRoutesController extends AbstractController
     public function browse444(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 444',
         ]);
     }
 
@@ -3563,7 +3563,7 @@ class MultiRoutesController extends AbstractController
     public function browse445(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 445',
         ]);
     }
 
@@ -3571,7 +3571,7 @@ class MultiRoutesController extends AbstractController
     public function browse446(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 446',
         ]);
     }
 
@@ -3579,7 +3579,7 @@ class MultiRoutesController extends AbstractController
     public function browse447(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 447',
         ]);
     }
 
@@ -3587,7 +3587,7 @@ class MultiRoutesController extends AbstractController
     public function browse448(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 448',
         ]);
     }
 
@@ -3595,7 +3595,7 @@ class MultiRoutesController extends AbstractController
     public function browse449(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 449',
         ]);
     }
 
@@ -3603,7 +3603,7 @@ class MultiRoutesController extends AbstractController
     public function browse450(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 450',
         ]);
     }
 
@@ -3611,7 +3611,7 @@ class MultiRoutesController extends AbstractController
     public function browse451(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 451',
         ]);
     }
 
@@ -3619,7 +3619,7 @@ class MultiRoutesController extends AbstractController
     public function browse452(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 452',
         ]);
     }
 
@@ -3627,7 +3627,7 @@ class MultiRoutesController extends AbstractController
     public function browse453(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 453',
         ]);
     }
 
@@ -3635,7 +3635,7 @@ class MultiRoutesController extends AbstractController
     public function browse454(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 454',
         ]);
     }
 
@@ -3643,7 +3643,7 @@ class MultiRoutesController extends AbstractController
     public function browse455(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 455',
         ]);
     }
 
@@ -3651,7 +3651,7 @@ class MultiRoutesController extends AbstractController
     public function browse456(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 456',
         ]);
     }
 
@@ -3659,7 +3659,7 @@ class MultiRoutesController extends AbstractController
     public function browse457(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 457',
         ]);
     }
 
@@ -3667,7 +3667,7 @@ class MultiRoutesController extends AbstractController
     public function browse458(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 458',
         ]);
     }
 
@@ -3675,7 +3675,7 @@ class MultiRoutesController extends AbstractController
     public function browse459(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 459',
         ]);
     }
 
@@ -3683,7 +3683,7 @@ class MultiRoutesController extends AbstractController
     public function browse460(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 460',
         ]);
     }
 
@@ -3691,7 +3691,7 @@ class MultiRoutesController extends AbstractController
     public function browse461(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 461',
         ]);
     }
 
@@ -3699,7 +3699,7 @@ class MultiRoutesController extends AbstractController
     public function browse462(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 462',
         ]);
     }
 
@@ -3707,7 +3707,7 @@ class MultiRoutesController extends AbstractController
     public function browse463(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 463',
         ]);
     }
 
@@ -3715,7 +3715,7 @@ class MultiRoutesController extends AbstractController
     public function browse464(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 464',
         ]);
     }
 
@@ -3723,7 +3723,7 @@ class MultiRoutesController extends AbstractController
     public function browse465(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 465',
         ]);
     }
 
@@ -3731,7 +3731,7 @@ class MultiRoutesController extends AbstractController
     public function browse466(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 466',
         ]);
     }
 
@@ -3739,7 +3739,7 @@ class MultiRoutesController extends AbstractController
     public function browse467(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 467',
         ]);
     }
 
@@ -3747,7 +3747,7 @@ class MultiRoutesController extends AbstractController
     public function browse468(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 468',
         ]);
     }
 
@@ -3755,7 +3755,7 @@ class MultiRoutesController extends AbstractController
     public function browse469(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 469',
         ]);
     }
 
@@ -3763,7 +3763,7 @@ class MultiRoutesController extends AbstractController
     public function browse470(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 470',
         ]);
     }
 
@@ -3771,7 +3771,7 @@ class MultiRoutesController extends AbstractController
     public function browse471(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 471',
         ]);
     }
 
@@ -3779,7 +3779,7 @@ class MultiRoutesController extends AbstractController
     public function browse472(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 472',
         ]);
     }
 
@@ -3787,7 +3787,7 @@ class MultiRoutesController extends AbstractController
     public function browse473(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 473',
         ]);
     }
 
@@ -3795,7 +3795,7 @@ class MultiRoutesController extends AbstractController
     public function browse474(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 474',
         ]);
     }
 
@@ -3803,7 +3803,7 @@ class MultiRoutesController extends AbstractController
     public function browse475(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 475',
         ]);
     }
 
@@ -3811,7 +3811,7 @@ class MultiRoutesController extends AbstractController
     public function browse476(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 476',
         ]);
     }
 
@@ -3819,7 +3819,7 @@ class MultiRoutesController extends AbstractController
     public function browse477(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 477',
         ]);
     }
 
@@ -3827,7 +3827,7 @@ class MultiRoutesController extends AbstractController
     public function browse478(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 478',
         ]);
     }
 
@@ -3835,7 +3835,7 @@ class MultiRoutesController extends AbstractController
     public function browse479(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 479',
         ]);
     }
 
@@ -3843,7 +3843,7 @@ class MultiRoutesController extends AbstractController
     public function browse480(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 480',
         ]);
     }
 
@@ -3851,7 +3851,7 @@ class MultiRoutesController extends AbstractController
     public function browse481(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 481',
         ]);
     }
 
@@ -3859,7 +3859,7 @@ class MultiRoutesController extends AbstractController
     public function browse482(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 482',
         ]);
     }
 
@@ -3867,7 +3867,7 @@ class MultiRoutesController extends AbstractController
     public function browse483(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 483',
         ]);
     }
 
@@ -3875,7 +3875,7 @@ class MultiRoutesController extends AbstractController
     public function browse484(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 484',
         ]);
     }
 
@@ -3883,7 +3883,7 @@ class MultiRoutesController extends AbstractController
     public function browse485(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 485',
         ]);
     }
 
@@ -3891,7 +3891,7 @@ class MultiRoutesController extends AbstractController
     public function browse486(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 486',
         ]);
     }
 
@@ -3899,7 +3899,7 @@ class MultiRoutesController extends AbstractController
     public function browse487(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 487',
         ]);
     }
 
@@ -3907,7 +3907,7 @@ class MultiRoutesController extends AbstractController
     public function browse488(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 488',
         ]);
     }
 
@@ -3915,7 +3915,7 @@ class MultiRoutesController extends AbstractController
     public function browse489(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 489',
         ]);
     }
 
@@ -3923,7 +3923,7 @@ class MultiRoutesController extends AbstractController
     public function browse490(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 490',
         ]);
     }
 
@@ -3931,7 +3931,7 @@ class MultiRoutesController extends AbstractController
     public function browse491(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 491',
         ]);
     }
 
@@ -3939,7 +3939,7 @@ class MultiRoutesController extends AbstractController
     public function browse492(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 492',
         ]);
     }
 
@@ -3947,7 +3947,7 @@ class MultiRoutesController extends AbstractController
     public function browse493(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 493',
         ]);
     }
 
@@ -3955,7 +3955,7 @@ class MultiRoutesController extends AbstractController
     public function browse494(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 494',
         ]);
     }
 
@@ -3963,7 +3963,7 @@ class MultiRoutesController extends AbstractController
     public function browse495(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 495',
         ]);
     }
 
@@ -3971,7 +3971,7 @@ class MultiRoutesController extends AbstractController
     public function browse496(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 496',
         ]);
     }
 
@@ -3979,7 +3979,7 @@ class MultiRoutesController extends AbstractController
     public function browse497(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 497',
         ]);
     }
 
@@ -3987,15 +3987,15 @@ class MultiRoutesController extends AbstractController
     public function browse498(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 498',
         ]);
     }
 
-    #[Route('/browse499004234234', name: 'browser499')]
+    #[Route('/browse499', name: 'browser499')]
     public function browse499(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 499',
         ]);
     }
 
@@ -4003,10 +4003,7 @@ class MultiRoutesController extends AbstractController
     public function browse500(): Response
     {
         return $this->render('vinyl/browser.html.twig', [
-            'title' => 'browser',
+            'title' => 'browser 500',
         ]);
     }
-
-
-
 }
